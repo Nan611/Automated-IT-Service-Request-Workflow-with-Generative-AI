@@ -5,8 +5,14 @@ An automated IT service request workflow integrating Generative AI with business
 ## Technologies
 
 Google Gemini API
+
 Camunda 7
+
 Power Automate Desktop
+
 Node.js
+
 REST API
+
 BPMN
+
